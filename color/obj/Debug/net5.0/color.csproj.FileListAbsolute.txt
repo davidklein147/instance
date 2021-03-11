@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.exe
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.deps.json
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.dll
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\ref\color.dll
+C:\Users\stu\Desktop\Exercises\c#\color\bin\Debug\net5.0\color.pdb
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.dll
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\ref\color.dll
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.pdb
+C:\Users\stu\Desktop\Exercises\c#\color\obj\Debug\net5.0\color.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\ref\Sentence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\bin\Debug\net5.0\Sentence.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\ref\Sentence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\Sentence\obj\Debug\net5.0\Sentence.genruntimeconfig.cache
