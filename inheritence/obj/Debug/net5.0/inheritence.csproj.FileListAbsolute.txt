@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\ref\inheritence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\bin\Debug\net5.0\inheritence.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\ref\inheritence.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\inheritence\obj\Debug\net5.0\inheritence.genruntimeconfig.cache

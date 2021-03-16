@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\beginnig\\beginnig\\beginnig.csproj",
+      "projectUniqueName": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\beginnig.csproj",
       "projectName": "beginnig",
-      "projectPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\beginnig\\beginnig\\beginnig.csproj",
+      "projectPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\beginnig.csproj",
       "packagesPath": "C:\\Users\\stu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\beginnig\\beginnig\\obj\\",
+      "outputPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stu\\AppData\\Roaming\\NuGet\\NuGet.Config",

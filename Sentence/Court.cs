@@ -26,6 +26,7 @@ namespace Sentence
             }
             new Judge(prisArr[seatNum - 1], prisArr[seatNum - 2]);   
         }
+
     }
    
 }

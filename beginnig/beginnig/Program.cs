@@ -18,11 +18,11 @@ namespace beginnig
             //printNine();
             //isFirstt();
             //cellInFibonacci();
-            //MultiplicationTable();
+            MultiplicationTable();
             //chars();
             //towArrays();
             //names();
-            areas();
+            //areas();
         }
 
         static void daysOfMonths()

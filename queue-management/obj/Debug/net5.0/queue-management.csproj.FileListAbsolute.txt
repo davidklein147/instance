@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\ref\queue-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\bin\Debug\net5.0\queue-management.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\ref\queue-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.genruntimeconfig.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\queue-management\obj\Debug\net5.0\queue-management.csprojAssemblyReference.cache

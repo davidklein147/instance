@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\ref\cars-data.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\bin\Debug\net5.0\cars-data.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\ref\cars-data.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\cars-data\obj\Debug\net5.0\cars-data.genruntimeconfig.cache
