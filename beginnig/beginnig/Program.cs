@@ -16,9 +16,9 @@ namespace beginnig
             //printTow();
             //arrAverenge();
             //printNine();
-            //isFirstt();
+            isFirstt();
             //cellInFibonacci();
-            MultiplicationTable();
+           // MultiplicationTable();
             //chars();
             //towArrays();
             //names();
@@ -233,6 +233,7 @@ namespace beginnig
             }
             Console.WriteLine(isFirst);
             isFirstt();
+            
         }
         static void cellInFibonacci()
         {

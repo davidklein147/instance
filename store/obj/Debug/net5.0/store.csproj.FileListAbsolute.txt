@@ -1,0 +1,5 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.csproj.CoreCompileInputs.cache

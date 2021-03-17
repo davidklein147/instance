@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\ref\Store-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store-management.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\ref\Store-management.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store-management.genruntimeconfig.cache
