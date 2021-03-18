@@ -416,7 +416,7 @@ namespace beginnig
                 fife = n / 2 * (2 * 5 + 5 * (n - 1));
                 if (value1 >= 15)
                 {
-                    for (int i = 15; i < fife; i += 15)
+                    for (int i = 15; i < n * 5; i += 15)
                     {
                         fife -= i;
                     }
