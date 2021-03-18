@@ -8,7 +8,8 @@ namespace Store
 {
     abstract class Food : Product ,ILastDate
     {
-        string lastDate, storagesType;
+        string lastDate;
+        public bool isFredge, isGoodTemp;
 
         public string LastDate { set => lastDate = Date(value); }
 

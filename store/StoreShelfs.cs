@@ -8,6 +8,14 @@ namespace Store
 {
     class StoreShelfs
     {
-        List<ILastDate> last = new List<ILastDate>();
+        
+        private List<ILastDate> last = new List<ILastDate>();
+        private List<IFridge> fridges = new List<IFridge>();
+        
+        public static void sortFredge(Food foo)
+        {
+            Type ty = foo.GetType();
+            
+        }
     }
 }

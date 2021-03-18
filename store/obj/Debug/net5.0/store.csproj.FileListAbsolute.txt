@@ -3,3 +3,14 @@ C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.Generate
 C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.AssemblyInfoInputs.cache
 C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.AssemblyInfo.cs
 C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\store.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\ref\Store.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\bin\Debug\net5.0\Store.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\ref\Store.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\store\obj\Debug\net5.0\Store.genruntimeconfig.cache

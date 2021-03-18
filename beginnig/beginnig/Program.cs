@@ -16,13 +16,15 @@ namespace beginnig
             //printTow();
             //arrAverenge();
             //printNine();
-            isFirstt();
+            //isFirstt();
             //cellInFibonacci();
-           // MultiplicationTable();
+            //MultiplicationTable();
             //chars();
             //towArrays();
             //names();
             //areas();
+             int test = Solution(199);
+            Console.WriteLine(test);
         }
 
         static void daysOfMonths()
@@ -382,6 +384,44 @@ namespace beginnig
         static void area(int circle)
         {
             Console.WriteLine((double)circle * Math.PI);
+        }
+        static int Solution(int value)
+        {
+            
+            double value1 = value;
+            double three = 0;
+            double fife = 0;
+            
+            if(value >= 3)
+            {
+                do
+                {
+                    value--;
+                }
+                while (value % 3 != 0);
+
+                double n = (value - 3) / 3 + 1;
+                three = (n / 2) * (2*3 + 3 * (n-1));
+            }
+
+            if (value1 >= 5)
+            {
+                do
+                {
+                    value1--;
+                }
+                while (value1 % 5 != 0);
+                     
+                double n = (value1 - 5) / 5 + 1;
+                fife = n / 2 * (2 * 5 + 5 * (n - 1));
+                if (value1 >= 15)
+                {
+                    for (int i = 15; i < fife; i += 15)
+                    {
+                        fife -= i;
+                    }
+                }
+            }return (int)three + (int)fife;
         }
 
 
