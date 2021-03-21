@@ -8,7 +8,23 @@ namespace Store
 {
     abstract class Houseware : Product
     {
-        bool breakable , responsibility;
-        string timeRes;
+        public bool breakable , responsibility;
+        int timeRes;
+        public Houseware()
+        {
+            breakable = new Random().Next(0,2) == 1;
+            responsibility = new Random().Next(0, 2) == 1;
+            if (responsibility) timeRes = new Random().Next(6, 18);
+        }
+        public override string ToString()
+        {
+            string str = "";
+            if (breakable)
+            {
+                str = "Caution: BREAKABLE \n";
+            }
+                
+            return base.ToString() + str;
+        }
     }
 }

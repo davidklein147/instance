@@ -28,5 +28,9 @@ namespace Store
             max = 10;
             min = 2;
         }
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

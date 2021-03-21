@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aaron\\.nuget\\packages\\": {}
+    "C:\\Users\\stu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aaron\\Desktop\\david\\david1\\c#\\New folder\\instance\\beginnig\\beginnig\\beginnig.csproj",
+      "projectUniqueName": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\beginnig.csproj",
       "projectName": "beginnig",
-      "projectPath": "C:\\Users\\aaron\\Desktop\\david\\david1\\c#\\New folder\\instance\\beginnig\\beginnig\\beginnig.csproj",
-      "packagesPath": "C:\\Users\\aaron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aaron\\Desktop\\david\\david1\\c#\\New folder\\instance\\beginnig\\beginnig\\obj\\",
+      "projectPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\beginnig.csproj",
+      "packagesPath": "C:\\Users\\stu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\stu\\Desktop\\Exercises\\c#\\progrems\\beginnig\\beginnig\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aaron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

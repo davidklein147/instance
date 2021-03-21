@@ -23,7 +23,7 @@ namespace beginnig
             //towArrays();
             //names();
             //areas();
-             int test = Solution(199);
+             int test = Solution(20);
             Console.WriteLine(test);
         }
 
@@ -416,7 +416,7 @@ namespace beginnig
                 fife = n / 2 * (2 * 5 + 5 * (n - 1));
                 if (value1 >= 15)
                 {
-                    for (int i = 15; i < n * 5; i += 15)
+                    for (int i = 15; i <= n * 5; i += 15)
                     {
                         fife -= i;
                     }

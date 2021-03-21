@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace queue_management
 {
-    class Appointment
+    public class Appointment
     {
         public string namePatient;
         public string plase;

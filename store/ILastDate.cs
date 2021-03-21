@@ -9,7 +9,7 @@ namespace Store
     interface ILastDate
     {
         public string LastDate { set; }
-        public string Date(string date);
+        public string Date();
         
     }
 }

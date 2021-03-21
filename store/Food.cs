@@ -11,11 +11,22 @@ namespace Store
         string lastDate;
         public bool isFredge, isGoodTemp;
 
-        public string LastDate { set => lastDate = Date(value); }
+        public string LastDate { set => lastDate = value; }
 
-        public string Date(string date)
+        public Food()
         {
-            return date;
+            LastDate = Date();
+                   
+        }
+        public string Date()
+        {
+            Random i = new Random();
+            return "" + i.Next(0, 31) + "/" + i.Next(0, 12) + "/" + i.Next(2020, 2021); 
+        }
+
+        public override string ToString()
+        {
+            return base.ToString()+ "last date: " + lastDate + "\n";
         }
     }
 }
