@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Store
 {
-    abstract class Product
+    public abstract class Product
     {
         string name, description, barcode;
         double price;
@@ -25,7 +25,7 @@ namespace Store
         public static string RondomString(int num)
         {
             string str = "";
-            for (int i = 0; i < new Random().Next(4,num); i++)
+            for (int i = 0; i < new Random().Next(7,num); i++)
             {
                 if (str.Length == 8)
                 {

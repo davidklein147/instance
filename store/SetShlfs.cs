@@ -20,6 +20,7 @@ namespace Store
                     shelf.sortFridge(pro1);
                 }
                 else if (pro is ILastDate)
+
                     shelf.SortLestDate(pro);
                 else
                 {

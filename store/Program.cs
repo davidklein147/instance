@@ -14,8 +14,7 @@ namespace Store
             for (int i = 0; i < 100; i++)
             {
                 string str = productNames[new Random().Next(0, productNames.Length)];
-                int type = new Random().Next(0, 9);
-                
+               
                 switch (str)
                 {
                     case "milk":

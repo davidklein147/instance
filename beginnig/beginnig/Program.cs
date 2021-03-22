@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace beginnig
 {
@@ -23,7 +24,9 @@ namespace beginnig
             //towArrays();
             //names();
             //areas();
-             int test = Solution(20);
+            /* int test = Solution(20);
+            Console.WriteLine(test);*/
+            int test = DescendingOrder(25641);
             Console.WriteLine(test);
         }
 
@@ -422,6 +425,22 @@ namespace beginnig
                     }
                 }
             }return (int)three + (int)fife;
+        }
+        static int DescendingOrder(int num)
+        {
+            List<int> numbe = new List<int>();
+            for (int i = 0; num > 0; i++)
+            {
+                numbe.Add(num % 10);
+                num /= 10;
+            }
+            numbe.Sort();
+            int numb = 0;
+            for (int i = numbe.Count-1; i >= 0; i--)
+            {
+                numb = (numb *10) + numbe[i];
+            }
+            return numb;
         }
 
 
