@@ -7,15 +7,32 @@ namespace Company_management
     {
         static void Main(string[] args)
         {
-            List<int> i = new List<int> { 5, 6, 9, 2 };
-            i.Sort();
-            foreach (var item in i)
-            {
-                Console.WriteLine(item);
-            }
-            Console.WriteLine(i);
-            Type y = i.GetType();
-            Console.WriteLine(y);
+
+            Manager[] man = new Manager[4];
+            
+            man[0] =  new Manager("A",new Worker[3]);
+            man[1] =  new Manager("B",new Worker[2]);
+            man[2] =  new Manager("C",new Worker[1]);
+            man[3] =  new Manager("D",new Worker[2]);
+            man[0].workers[0] = new Worker("A = a");
+            man[0].workers[1] = new Worker("A = b");
+            man[0].workers[2] = new Worker("A = c");
+            man[1].workers[0] = new Worker("B = a");
+            man[1].workers[1] = new Worker("B = b");
+            man[2].workers[0] = new Worker("C = a");
+            man[3].workers[0] = new Worker("D = a");
+            man[3].workers[1] = new Worker("D = b");
+
+            CEO ce = new CEO("ABC", man);
+            //ce.Print();
+            //ce.PrintManagers();
+            Console.WriteLine(ce);
+
+
+
+
+
+
 
         }
     }

@@ -7,6 +7,8 @@ namespace beginnig
     {
         static void Main(string[] args)
         {
+            int[] ds = {1,2,3,4,5,6,7 };
+            Console.WriteLine(ds.Length);
             //daysOfMonths();
             //charOfNum();
             //pairNum();
@@ -442,6 +444,25 @@ namespace beginnig
             }
             return numb;
         }
+        /*static string AlphabetPosition(string text)
+        {
+            char[] ch = new char['z'-'a'];
+            int[] ii = new int['z'-'a'];
+            int a = 0;
+            for (char i = 'a'; i <= 'z'; i++)
+            {
+                ch[a] = i;
+                ii[a] = a + 1;
+            }
+            string text1 = "";
+            for (int i = 0; i < text.Length; i++)
+            {
+                if(text[i] is char)
+                {
+                   
+                }
+            }
+        }*/
 
 
     }

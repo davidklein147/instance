@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exceptions", "exceptions\exceptions.csproj", "{53D87266-1755-42D4-8D7B-CCB874E94EB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "calculator", "calculator\calculator.csproj", "{FBFBFCDD-3562-4726-8201-03AA2C8CE00D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testEnum", "enum\testEnum.csproj", "{45B87D66-2297-4A36-A102-CC81F7B0ADA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53D87266-1755-42D4-8D7B-CCB874E94EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D87266-1755-42D4-8D7B-CCB874E94EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D87266-1755-42D4-8D7B-CCB874E94EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D87266-1755-42D4-8D7B-CCB874E94EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFBFCDD-3562-4726-8201-03AA2C8CE00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFBFCDD-3562-4726-8201-03AA2C8CE00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFBFCDD-3562-4726-8201-03AA2C8CE00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFBFCDD-3562-4726-8201-03AA2C8CE00D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B87D66-2297-4A36-A102-CC81F7B0ADA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B87D66-2297-4A36-A102-CC81F7B0ADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B87D66-2297-4A36-A102-CC81F7B0ADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B87D66-2297-4A36-A102-CC81F7B0ADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57EB1C71-BA0E-4EDE-9038-95DBA7D21540}
+	EndGlobalSection
+EndGlobal

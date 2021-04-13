@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\ref\testEnum.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\bin\Debug\net5.0\testEnum.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\ref\testEnum.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\exceptions\enum\obj\Debug\net5.0\testEnum.genruntimeconfig.cache

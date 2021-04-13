@@ -1,11 +1,14 @@
 ﻿using System;
+using System.Reflection;
+using System.Collections.Generic;
 
 namespace Sentence
 {
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+            
             Court co = new Court();
             
             for (int i = 0; i < co.prisArr.Length; i+=2)
@@ -27,5 +30,6 @@ namespace Sentence
 
             Console.WriteLine(Prisoner.releaseds);
         }
+        
     }
 }
