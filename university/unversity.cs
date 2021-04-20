@@ -10,9 +10,5 @@ namespace university
     {
         public static Student[] students = new Student[10];
         public static int sumStu;
-
-
-
-
     }
 }

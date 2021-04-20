@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\queue-management"
   ],
-  "SelectedNode": "\\beginnig.sln",
+  "SelectedNode": "\\queue-management\\Appointment.cs",
   "PreviewInSolutionExplorer": false
 }

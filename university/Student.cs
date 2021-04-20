@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace university
 {
-    class Student
+    class  Student
     {
         public string name;
         public long ID;

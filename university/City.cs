@@ -8,6 +8,7 @@ namespace university
 {
     class City
     {
+        
         public static void Add(Student stu)
         {
             if(unversity.sumStu < unversity.students.Length)
