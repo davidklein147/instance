@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\ref\streams.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\bin\Debug\net5.0\streams.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\ref\streams.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\streams\obj\Debug\net5.0\streams.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\ref\exercise.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\bin\Debug\net5.0\exercise.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\ref\exercise.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\exercise\obj\Debug\net5.0\exercise.genruntimeconfig.cache

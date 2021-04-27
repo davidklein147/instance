@@ -1,0 +1,16 @@
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.exe
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.deps.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.runtimeconfig.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.runtimeconfig.dev.json
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\ref\DirectoryCopy.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\bin\Debug\net5.0\DirectoryCopy.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.csprojAssemblyReference.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.AssemblyInfoInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.AssemblyInfo.cs
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.csproj.CoreCompileInputs.cache
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\ref\DirectoryCopy.dll
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.pdb
+C:\Users\stu\Desktop\Exercises\c#\progrems\DirectoryCopy\obj\Debug\net5.0\DirectoryCopy.genruntimeconfig.cache
